@@ -435,7 +435,7 @@ input:required {
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
   transition-duration: 500ms;
-  background-color: transparent; }
+  background-color: black; }
   .header-area .search-icon {
     position: relative;
     z-index: 1;
