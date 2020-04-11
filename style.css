@@ -435,7 +435,7 @@ input:required {
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
   transition-duration: 500ms;
-  background-color: black; }
+  background-color: transparent; }
   .header-area .search-icon {
     position: relative;
     z-index: 1;
@@ -493,7 +493,7 @@ input:required {
     cursor: pointer; }
 
 .classy-nav-container {
-  background-color: transparent;
+  background-color: blue;
   padding: 0; }
   .classy-nav-container .classy-navbar {
     -webkit-transition-duration: 500ms;
