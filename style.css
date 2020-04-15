@@ -13,13 +13,13 @@
   padding: 0; }
 
 
-#center-block{
+.center-block{
   margin: 0 auto;
   width: 940px;
 }
 
-#margin-top{
-  padding-top: 80px;
+#trabalhos{
+  padding-top: 80px
 }
 
 body {
